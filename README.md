@@ -3,7 +3,7 @@
 
 ## I'm a Student, Engineer , and Junior Backend Developer !!
 
-
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with companies 
 - 🥅 2021 Goals: Contribute more to be senior in my work 
@@ -11,9 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twifacebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn .jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mohamednabil2518 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 
 ### Languages and Tools:
@@ -88,6 +89,13 @@
 
 </details>
 
-[facebook]: https://web.facebook.com/?_rdc=1&_rdr
-[instagram]:https://www.instagram.com/mohamednabil2518/
-[linkedin]: https://www.linkedin.com/in/mohamed-nabil-004339157/
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[facebook]: https://web.facebook.com/mohamed.nabil.9275
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://www.instagram.com/mohamednabil2518
+[linkedin]: https://www.linkedin.com/in/mohamed-nabil-004339157
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
