@@ -17,9 +17,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 <br />
-
 
 ### Languages and Tools:
 
@@ -48,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How To Write Clean Code! | JavaScript Pro Tips (2021)](https://www.youtube.com/watch?v=ZI3q-_vjSZE)
-- [[#7] Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #7)](https://www.youtube.com/watch?v=pQyR71kNTo8)
-- [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
-- [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
-- [[#6] Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #6)](https://www.youtube.com/watch?v=V2HUBo0P_BA)
+- [React 17: New Features!! - JSX Transform is Amazing!!](https://www.youtube.com/watch?v=8D-rWP3c088)
+- [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw)
+- [Become A VS Code SuperHero Today! | Course Launch](https://www.youtube.com/watch?v=MIsHYGZ3MwQ)
+- [How to Create a VS Code Extension Pack | Top Extensions | Download SuperHero Extension Pack Now!!](https://www.youtube.com/watch?v=DvNXEBxO3YQ)
+- [How to Create a Custom VS Code Theme (2020) | Step-by-Step | Debut of codeSTACKr Dark Theme](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -62,11 +60,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
@@ -74,31 +72,30 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+1. ❗️ Closed issue [#1](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+2. 🎉 Merged PR [#2](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/2) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#1](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. 💪 Opened PR [#6](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web)
+5. 🗣 Commented on [#249](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[facebook]: https://web.facebook.com/mohamed.nabil.9275
+[twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/mohamednabil2518
-[linkedin]: https://www.linkedin.com/in/mohamed-nabil-004339157
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
