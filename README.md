@@ -1,9 +1,8 @@
 ### Hi there, I'm Mohamed-nabil 👋
 
 
-## I'm a Student, Engineer , and Junior Backend Developer !!
+## Fullstake developer  (Angular , Django ) !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with companies 
-- 🥅 2022 Goals: Contribute more to be senior in my work 
-- ⚡ Fun fact: I love to reading and playing football
+- 🥅 2023 Goals: Contribute more to be senior in my work 
+- ⚡ Fun fact: I love reading and playing football
