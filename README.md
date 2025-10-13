@@ -1,8 +1,9 @@
-### Hi there, I'm Mohamed-nabil 👋
+## Full Stack Developer | Angular & ASP.NET Specialist
 
+💻 Passionate about building full-stack web applications with Angular and ASP.NET Core
 
-## Fullstake developer  (Angular , asp,net ) !!
+🌱 Currently expanding my expertise in cloud technologies and advanced software architecture
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to be senior in my work 
-- ⚡ Fun fact: I love reading and playing football
+🎯 2026 Goals: Advance to Senior Developer role and master enterprise-level development patterns
+
+⚡ Fun fact: I love reading tech blogs and playing football in my free time
